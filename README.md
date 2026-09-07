@@ -19,4 +19,4 @@ non-technical stakeholder can actually act on.
 
 **Tech I work with:** Python · SQL · Power BI (DAX) · AWS · Git
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/james-beta/) · [Email](Jamesbeta99@outlook.com)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/james-beta/) · [Email](mailto:Jamesbeta99@outlook.com)
